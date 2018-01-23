@@ -1,0 +1,13 @@
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\ClassLibrary.dll.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ConsoleApp\obj\Debug\ConsoleApp.pdb

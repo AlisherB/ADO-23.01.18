@@ -1,0 +1,9 @@
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ClassLibrary\obj\Debug\ClassLibrary.pdb

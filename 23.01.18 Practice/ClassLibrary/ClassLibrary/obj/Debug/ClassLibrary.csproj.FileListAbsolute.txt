@@ -1,0 +1,12 @@
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.Migrations.Test.resources
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.12.01 Practice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.Migrations.Test2.resources

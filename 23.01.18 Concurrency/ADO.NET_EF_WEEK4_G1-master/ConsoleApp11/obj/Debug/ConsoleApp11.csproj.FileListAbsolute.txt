@@ -1,0 +1,15 @@
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\obj\Debug\ConsoleApp11.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\obj\Debug\ConsoleApp11.Migrations.InitialCreate.resources
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\ClassLibrary.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\EntityFramework.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\ClassLibrary.pdb
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\ClassLibrary.dll.config
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\EntityFramework.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\БекмухамбетА\Desktop\ADO.NET\23.21.18 Concurrency\ADO.NET_EF_WEEK4_G1-master\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
